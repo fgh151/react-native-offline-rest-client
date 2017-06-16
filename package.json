@@ -1,0 +1,35 @@
+{
+  "name": "react-native-offline-rest-client",
+  "version": "1.0.0",
+  "description": "Rest client for RN with support offline sync",
+  "keywords": [
+    "android",
+    "ios",
+    "react",
+    "native",
+    "react-native",
+    "native-modules",
+    "react-component",
+    "rest"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fedor B Gorsky",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fgh151/react-native-offline-rest-client.git"
+  },
+  "devDependencies": {
+    "eslint-plugin-react-native": "^2.0.0",
+    "jest": "17.0.0",
+    "react": "^16.0.0-alpha.3",
+    "react-native": "^0.44.0"
+  },
+  "dependencies": {
+    "qs": "^6.4.0",
+    "react-native-sqlite-storage": "^3.3.1"
+  }
+}
